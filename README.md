@@ -1,2 +1,3 @@
-# monty
-alx, stacks,queues, Lifo
+ALX_monty
+Stacks, queues - LIFO, FIFO
+```   
